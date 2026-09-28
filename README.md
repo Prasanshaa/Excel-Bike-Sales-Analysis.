@@ -1,6 +1,6 @@
-# 🚲 Bike Sales Analysis | Excel
+#  Bike Sales Analysis | Excel
 
-## 📌 Project Overview
+##  Project Overview
 
 An Excel-based data analytics project focused on analyzing customer demographics and bike purchasing behavior.
 
@@ -8,7 +8,7 @@ The project uses data cleaning, Excel formulas, Pivot Tables, Pivot Charts, and 
 
 ---
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 
 - Microsoft Excel
 - Data Cleaning
@@ -21,7 +21,7 @@ The project uses data cleaning, Excel formulas, Pivot Tables, Pivot Charts, and 
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains customer-level information including:
 
@@ -41,7 +41,7 @@ The dataset contains customer-level information including:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Cleaning & Preparation
 
@@ -67,7 +67,7 @@ Created an interactive Excel dashboard to present key customer and bike purchasi
 
 ---
 
-## 📈 Dashboard Analysis
+##  Dashboard Analysis
 
 The dashboard provides insights into:
 
@@ -80,7 +80,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Bike-Sales-Analysis/
